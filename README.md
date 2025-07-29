@@ -1,1 +1,1 @@
-# Exercício de Gherkin do Módulo 8
+# Exercício de critérios de aceitação em Gherkin do Módulo 8
